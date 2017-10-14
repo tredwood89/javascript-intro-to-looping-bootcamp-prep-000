@@ -32,7 +32,7 @@ function whileLoop(n) {
 }
 
   do {
-    array.pop()
+    array.pop();
 } while (array.length > 0 && maybeTrue())
   }
 
