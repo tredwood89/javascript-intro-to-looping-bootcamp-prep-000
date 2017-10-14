@@ -6,7 +6,7 @@ function forLoop (array) {
 
     array.push ("I am 1 strange loop")
 
-  } else (i < 26)  {
+  } else if (i < 26)  {
 
   array.push (`I am ${i} strange loops`)
  }
